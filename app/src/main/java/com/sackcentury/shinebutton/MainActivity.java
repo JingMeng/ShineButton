@@ -1,11 +1,11 @@
-package com.sackcentury.shinebutton;
+﻿package com.sackcentury.shinebutton;
 
 import android.app.Dialog;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -150,7 +150,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * 设置全屏
+     * 璁剧疆鍏ㄥ睆
      *
      * @param activity
      */
@@ -173,3 +173,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+
